@@ -1,0 +1,229 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BaiTapLon_Nhom23
+build_property.RootNamespace = BaiTapLon_Nhom23
+build_property.ProjectDir = C:\Users\Lenovo\NetCore\BaiTapLon-Nhom23\BaiTapLon-Nhom23\BaiTapLon-Nhom23\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lenovo\NetCore\BaiTapLon-Nhom23\BaiTapLon-Nhom23\BaiTapLon-Nhom23
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/ChucVu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/ChucVu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/ChucVu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/ChucVu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/ChucVu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhGia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEdpYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhGia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEdpYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhGia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEdpYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhGia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEdpYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhGia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEdpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhSachQuanAo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaFNhY2hRdWFuQW9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhSachQuanAo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaFNhY2hRdWFuQW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhSachQuanAo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaFNhY2hRdWFuQW9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhSachQuanAo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaFNhY2hRdWFuQW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhSachQuanAo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaFNhY2hRdWFuQW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/DanhSachQuanAo/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaFNhY2hRdWFuQW9cVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/HoaDon/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/HoaDon/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/HoaDon/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/HoaDon/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/HoaDon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/KhachHang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/KhachHang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/KhachHang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/KhachHang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/KhachHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Mau/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF1XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Mau/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF1XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Mau/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF1XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Mau/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF1XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Mau/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/NhanVien/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/NhanVien/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/NhanVien/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/NhanVien/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/NhanVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/QuanAo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkFvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/QuanAo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkFvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/QuanAo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkFvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/QuanAo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkFvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/QuanAo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkFvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Size/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Size/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Size/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Size/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Size/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/NetCore/BaiTapLon-Nhom23/BaiTapLon-Nhom23/BaiTapLon-Nhom23/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y4nap96dcu
